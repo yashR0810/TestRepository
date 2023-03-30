@@ -1,0 +1,4 @@
+STUFF THAT DOESNT MAKE SENSE
+
+1) Terms must be odd sem, even sem, summer term, winter term instead of sem, winter and summer and relying on level def.
+2) there should be term id in batch table. Since each batch is a group of students studying a course in a term in a year.
